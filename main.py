@@ -70,6 +70,7 @@ def main():
     plt.imshow(wordcloud, interpolation="bilinear")
     plt.axis("off")
     plt.show()
+    plt.savefig("./cloudy-with-a-chance-of-asinine-observations.png")
 
 if __name__ == "__main__":
     main()

@@ -2,7 +2,7 @@
 
 ### What
 
-I scraped every article from The Guardian's Blind Date series and turned the "describe x in three words" into a word cloud
+Ever wondered what the most frequent words people use to describe each other "in three words" from The Guardian's blind dates section? Neither have I, but I found out anyway
 
 ### Why
 
